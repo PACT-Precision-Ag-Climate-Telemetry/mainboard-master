@@ -1,0 +1,9 @@
+# Editor local history
+.history/
+
+# KiCad backups, lock files and local view settings
+_restore_backup_*/
+*-backups/
+~*.lck
+*.kicad_prl
+fp-info-cache
